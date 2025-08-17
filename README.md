@@ -64,3 +64,13 @@ To improve security awareness by learning how malicious or untrusted extensions 
 ---
 
 ## 📂 Repository Structure
+
+Task7-Browser-Extension-Security/
+├── README.md                 # Project documentation
+├── code.txt                  # Step-by-step task completion
+├── report.txt                # Summary of findings & outcomes
+├── screenshots/              # Folder for screenshots
+│   ├── s.png                 # Chrome Extensions
+│   ├── s1.png                # Extensions before cleanup
+│   ├── s2.png                # Extensions after cleanup
+
