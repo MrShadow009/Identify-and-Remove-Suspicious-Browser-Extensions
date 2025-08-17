@@ -1,0 +1,43 @@
+1.Open Extension Manager
+
+ ->Chrome: chrome://extensions/
+
+ ->Firefox: about:addons
+
+2.Review Installed Extensions
+
+ ->Checked extension names, developers, permissions, and      reviews.
+
+3.Identify Risks
+
+ ->Marked extensions that requested unnecessary permissions    (e.g., “Read and change data on all websites”).
+
+ ->Found unused extensions slowing performance.
+
+4.Remove Suspicious/Unnecessary Extensions
+
+ ->Disabled and then permanently removed them.
+
+5.Restarted Browser
+
+ ->Verified performance improved, fewer background processes.
+
+6.Researched Risks
+
+ ->Learned that malicious extensions can:
+
+     #Steal cookies or passwords
+
+     #Track browsing activity
+
+     #Inject ads/malware
+
+7.Documentation
+
+ ->Created this report and added screenshots to prove the process.
+
+8.Outcome
+
+ ->Improved awareness of browser security.
+
+ ->Cleaner, faster, and safer browser environment.
